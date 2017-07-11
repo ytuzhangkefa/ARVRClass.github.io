@@ -1,8 +1,5 @@
 ## 欢迎您来到AR VR训练营
-
-You can use the [editor on GitHub](https://github.com/ytuzhangkefa/ARVRClass.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我们在这里发表有关AR与VR技术的文章，也期待志同道合的朋友们一起发展
 
 ### Markdown
 
